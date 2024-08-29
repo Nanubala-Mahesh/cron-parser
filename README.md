@@ -57,7 +57,6 @@ The tests cover various cases:
 
 ## Installation
 
-Here's the modified version of your instructions:
 
 1. **Clone the repository**:
    ```bash
