@@ -61,7 +61,7 @@ Here's the modified version of your instructions:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/cron_parser.git
+   git clone git@github.com:Nanubala-Mahesh/cron-parser.git
    cd cron_parser
    ```
 
