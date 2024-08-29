@@ -29,7 +29,7 @@ day of week   1 2 3 4 5
 command       /usr/bin/env
 ```
 
-### Testing
+### Testing 
 
 The project uses RSpec for testing. To run the tests, use the following command:
 
